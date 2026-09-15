@@ -90,38 +90,18 @@ I'm a freelance developer focused on building practical and user-friendly web ap
 - Automated testing
 - Application deployment
 
-<h2 align="center">
-  <img
-    src="https://api.iconify.design/lucide/folder-kanban.svg?color=%234169E1"
-    width="28"
-    alt="Project icon"
-  />
-  Featured Project
-</h2>
+## Featured Projects
 
-<p>
-  An internal engineering ticketing platform with OCR-assisted document
-  processing and rule-based priority analysis.
-</p>
+### Queueo
 
-<!-- Replace this with your GitHub-generated screenshot code -->
-<img
-  src="https://github.com/user-attachments/assets/664991d4-e096-43cb-bea2-20677c007be7"
-  width="400"
-  alt="Queueo engineering ticketing platform dashboard"
-/>
+**Engineering Ticket Management System**
 
-<br><br>
+Queueo is a web and mobile platform developed to help companies manage internal engineering requests, job orders, inquiries, and technical-support concerns.
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Tesseract_OCR-4169E1?style=flat-square" alt="Tesseract OCR">
+It includes department approval workflows, OCR-assisted document processing, rule-based ticket prioritization, queue management, notifications, internal messaging, and activity tracking.
 
-<br><br>
+**Tech Stack**
 
-<a href="https://github.com/JustineClaro/Queueo_system">
-  <img src="https://img.shields.io/badge/View_Repository-4169E1?style=for-the-badge&logo=github&logoColor=white" alt="View Queueo repository">
-</a>
+`Laravel` • `PHP` • `React Native` • `JavaScript` • `Tailwind CSS` • `MySQL` • `Tesseract OCR`
 
-</div>
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustineClaro/Queueo_system)
