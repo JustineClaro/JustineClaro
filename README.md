@@ -1,4 +1,3 @@
-<img width="780" height="528" alt="coding-animation" src="https://github.com/user-attachments/assets/4d6f43a0-6769-4c26-909a-f013b72cbcf0" />
 <div align="center">
 
 # JUSTINE CLARO
@@ -14,10 +13,12 @@ I build full-stack web applications and create useful solutions that solve real-
 I'm a freelance developer focused on building practical and user-friendly web applications. I'm currently improving my knowledge of full-stack architecture while exploring AI trends and how emerging technologies can be applied to real-world solutions.
 
 <p align="center">
-  <img src="./assets/coding-animation.gif" width="450" alt="Justine Claro coding animation">
+  <img
+    src="https://github.com/user-attachments/assets/4d6f43a0-6769-4c26-909a-f013b72cbcf0"
+    width="500"
+    alt="Justine Claro coding animation"
+  />
 </p>
-![Uploading coding-animation..gif…]()
-
 
 ## Tech Stack
 
