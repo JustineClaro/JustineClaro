@@ -1,85 +1,57 @@
 <div align="center">
 
-  <img src="./assets/hero.svg" width="100%" alt="Justine Claro — Full-Stack Web Developer" />
+# JUSTINE CLARO
 
-  <br />
+### Full-Stack Web Developer
 
-
-
-
-</div>
-
-> whoami
-
-const justine = {
-  role: "Full-Stack Web Developer",
-  focus: ["Useful products", "Clean interfaces", "Reliable systems"],
-  currentlyBuilding: "Queueo",
-  coreStack: ["Laravel", "PHP", "JavaScript"],
-};
-
-I build practical web applications from interface to backend. I enjoy turning real problems into simple, useful digital experiences while continuously improving my full-stack development skills.
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-> tech --stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,js&theme=dark" alt="Laravel, PHP, and JavaScript" />
-</div>
-
-<br />
-
-<div align="center">
-
-Frontend
-
-Backend
-
-Development
-
-JavaScript
-
-PHP · Laravel
-
-Git · GitHub
+I build full-stack web applications and create useful solutions that solve real-world problems.
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+## About Me
 
-> ls ./featured-projects
+I'm a freelance developer focused on building practical and user-friendly web applications. I'm currently improving my knowledge of full-stack architecture while exploring AI trends and how emerging technologies can be applied to real-world solutions.
 
-<a href="https://github.com/JustineClaro/Queueo">
-  <img src="./assets/queueo-card.svg" width="100%" alt="Queueo featured project" />
-</a>
+## Tech Stack
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+### Frontend
 
-> github --activity
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,alpinejs&theme=dark" alt="Frontend technologies" />
+</p>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JustineClaro&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=6EA8FE&text_color=C9D1D9&ring_color=4169E1" alt="Justine's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustineClaro&layout=compact&hide_border=true&bg_color=0D1117&title_color=4169E1&text_color=C9D1D9" alt="Justine's most-used languages" />
-</div>
+### Backend
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustineClaro&hide_border=true&background=0D1117&stroke=30363D&ring=4169E1&fire=6EA8FE&currStreakLabel=4169E1&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Justine's GitHub contribution streak" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="PHP and Laravel" />
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/REST_APIs-4169E1?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+### Databases
 
-> connect --with-me
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, and SQLite" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/JustineClaro">
-    <img src="https://img.shields.io/badge/GitHub-JustineClaro-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub profile" />
-  </a>
-</div>
+### Development Tools
 
-<br />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&theme=dark" alt="Development tools" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+</p>
 
-<div align="center">
-  <sub>Designed with <code>#4169E1</code> royal blue and a love for building.</sub>
-</div>
+### Design Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+## Currently Learning
+
+- Full-stack application architecture
+- AI trends and emerging technologies
+- Docker and containerization
+- Automated testing
+- Application deployment
