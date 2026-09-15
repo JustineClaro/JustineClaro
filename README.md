@@ -15,7 +15,7 @@ I'm a freelance developer focused on building practical and user-friendly web ap
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/4d6f43a0-6769-4c26-909a-f013b72cbcf0"
-    width="500"
+    width="200"
     alt="Justine Claro coding animation"
   />
 </p>
