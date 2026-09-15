@@ -24,46 +24,60 @@ I'm a freelance developer focused on building practical and user-friendly web ap
 
 <h2>Tech Stack</h2>
 
-<h3>Frontend</h3>
+<p>
+  <strong>Frontend</strong>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,alpinejs&theme=dark" alt="Frontend technologies">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,alpinejs&theme=dark" alt="Frontend technologies">
+</p>
 
-<br><br>
+<br>
 
-<h3>Backend</h3>
+<p>
+  <strong>Backend</strong>
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="PHP and Laravel">
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="PHP and Laravel">
+  <br>
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire">
+  <img src="https://img.shields.io/badge/REST_APIs-4169E1?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs">
+</p>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
-<img src="https://img.shields.io/badge/REST_APIs-4169E1?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
+<p>
+  <strong>Databases</strong>
+</p>
 
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases">
+</p>
 
-<h3>Databases</h3>
+<br>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, and SQLite">
+<p>
+  <strong>Development Tools</strong>
+</p>
 
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&theme=dark" alt="Development tools">
+  <br>
+  <img src="https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white" alt="Composer">
+</p>
 
-<h3>Development Tools</h3>
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&theme=dark" alt="Development tools">
+<p>
+  <strong>Design Tools</strong>
+</p>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer">
-
-<br><br>
-
-<h3>Design Tools</h3>
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma">
+  <br>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+</p>
 
 </div>
 ## Currently Learning
