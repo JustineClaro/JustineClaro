@@ -105,7 +105,7 @@ I'm a freelance developer focused on building practical and user-friendly web ap
 <!-- Replace this with your GitHub-generated screenshot code -->
 <img
   src="https://github.com/user-attachments/assets/664991d4-e096-43cb-bea2-20677c007be7"
-  width="850"
+  width="400"
   alt="Queueo engineering ticketing platform dashboard"
 />
 
