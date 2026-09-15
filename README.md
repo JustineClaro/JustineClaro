@@ -1,3 +1,4 @@
+<img width="780" height="528" alt="coding-animation" src="https://github.com/user-attachments/assets/4d6f43a0-6769-4c26-909a-f013b72cbcf0" />
 <div align="center">
 
 # JUSTINE CLARO
@@ -15,6 +16,8 @@ I'm a freelance developer focused on building practical and user-friendly web ap
 <p align="center">
   <img src="./assets/coding-animation.gif" width="450" alt="Justine Claro coding animation">
 </p>
+![Uploading coding-animation..gif…]()
+
 
 ## Tech Stack
 
