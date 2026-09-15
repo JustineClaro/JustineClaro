@@ -13,19 +13,8 @@ I build full-stack web applications and create useful solutions that solve real-
 I'm a freelance developer focused on building practical and user-friendly web applications. I'm currently improving my knowledge of full-stack architecture while exploring AI trends and how emerging technologies can be applied to real-world solutions.
 
 <p align="center">
-  <img src="https://github.com/JustineClaro/JustineClaro/raw/refs/heads/main/assets/coding-animation.gif" width="450" alt="Justine Claro coding animation">
+  <img src="./assets/coding-animation.gif" width="450" alt="Justine Claro coding animation">
 </p>
-<p align="center">
-  <img src="https://github.com/JustineClaro/JustineClaro/raw/refs/heads/main/assets/coding-animation.gif" width="450" alt="Justine Claro coding animation">
-</p>
-![Justine Claro coding animation](./assets/coding-animation.gif)
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/JustineClaro/JustineClaro/main/assets/coding-animation.gif"
-    width="450"
-    alt="Justine Claro coding animation"
-  />
-</div>
 
 ## Tech Stack
 
