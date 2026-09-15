@@ -1,9 +1,11 @@
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/4d6f43a0-6769-4c26-909a-f013b72cbcf0"
-    width="400"
-    alt="Justine Claro coding animation"
-  />
+  <a href="https://www.instagram.com/_artgailery/">
+    <img
+      src="https://github.com/user-attachments/assets/4d6f43a0-6769-4c26-909a-f013b72cbcf0"
+      width="400"
+      alt="Justine Claro coding animation"
+    />
+  </a>
 </p>
 
 <div align="center">
