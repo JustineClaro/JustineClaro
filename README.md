@@ -21,35 +21,35 @@ I'm a freelance developer focused on building practical and user-friendly web ap
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,alpinejs&theme=dark" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,alpinejs&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, and Alpine.js">
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="PHP and Laravel" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/REST_APIs-4169E1?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="PHP and Laravel">
+  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
+  <img src="https://img.shields.io/badge/REST_APIs-4169E1?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, and SQLite" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, and SQLite">
 </p>
 
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&theme=dark" alt="Development tools" />
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&theme=dark" alt="Git, GitHub, VS Code, Postman, npm, and Vite">
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer">
 </p>
 
 ### Design Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </p>
 
 ## Currently Learning
